@@ -1,0 +1,9 @@
+# virtualenv
+.venv
+venv/
+ENV/
+env_send_tweet/
+
+__pycache__
+
+keys_and_tokens.py
